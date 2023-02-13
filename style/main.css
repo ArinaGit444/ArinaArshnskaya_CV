@@ -35,7 +35,7 @@ font-family: 'Open Sans', sans-serif;
     display: flex;
     width: 65%;
     background-color: white;
-    height: 1360px;
+    height: 1200px;
     box-sizing: border-box;
     left: 35%;
 
@@ -72,7 +72,7 @@ font-family: 'Open Sans', sans-serif;
     
   }
   .contact {
-    margin-top: 73px;
+    margin-top: 53px;
     margin-left: 100px; 
   }
   
