@@ -55,7 +55,7 @@ font-family: 'Open Sans', sans-serif;
   }
   
   
-  .contact, .icon_phone {
+  .contact, .iconPhone {
     display: inline-flex;
   }
   .education, .icon_hat {
@@ -76,7 +76,7 @@ font-family: 'Open Sans', sans-serif;
     margin-left: 100px; 
   }
   
-  .icon_phone img {
+  .iconPhone img {
     width: 27px;
     height: 27px;
     margin-left: 63px;
